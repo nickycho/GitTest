@@ -7,3 +7,4 @@
 new_master
 new_branch
 new_commit
+new_commit2
