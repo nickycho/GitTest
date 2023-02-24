@@ -16,5 +16,8 @@ cc
 eee
 ccc
 ddd
+<<<<<<< HEAD
 ddd
+=======
+>>>>>>> master
 ddd
